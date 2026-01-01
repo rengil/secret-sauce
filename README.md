@@ -1,4 +1,4 @@
-# secret-sauce!
+# secret-sauce
 
 A fun project demonstrating how to securely store a secret key using a password and a public key.
 
